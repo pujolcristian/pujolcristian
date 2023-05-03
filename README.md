@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Cristian Pujol 👋 
+### Hi there 👋, My name is Cristian Pujol 👋 
 Software developer iOS & Android engineer 
 https://github.com/pujolcristian
 
